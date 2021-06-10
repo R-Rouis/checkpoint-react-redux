@@ -1,0 +1,16 @@
+
+h1{
+    font-family: 'Anton', sans-serif;
+    word-spacing: 5px;
+    padding:20px;
+    color: rgb(19, 18, 18);
+    font-size : 50px;
+}
+
+.todoapp{
+    background-image: url('https://d1m2t4lpgaxv8l.cloudfront.net/wp-content/uploads/sites/10/2019/04/HERO_Managing-Priorities.jpg');
+    height: 660px;
+    margin: 0;
+    overflow: auto;
+
+}

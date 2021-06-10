@@ -1,0 +1,15 @@
+.inputadd{
+    width: 550px;
+    border-radius: 15px;
+    height: 50px;
+    padding: 15px;
+}
+
+.add-btn{
+    border-radius: 20px;
+    -webkit-webkit-animation-name: unset;
+    margin-left: 25px;
+    padding:1 0px;
+    font-weight: bolder;
+    color: rgb(2, 2, 2);
+}

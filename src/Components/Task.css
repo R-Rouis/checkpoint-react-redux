@@ -1,0 +1,37 @@
+.taskContainer{
+    display: flex;
+    border: 1px solid rgb(255, 81, 0);
+    width: 400px;
+    justify-content: center;
+    margin: 20px auto;
+    padding: 5px;
+    transition: opacity 500ms ease-in-out;
+    border-radius: 15px;
+    background-color: rgb(250, 213, 112);
+    opacity: 0.65;
+    height:50px;
+    align-items: center;
+    border: none;
+    
+
+}
+
+.task{
+    width: 300px;
+    font-family: 'Anton', sans-serif;
+    word-spacing: 5px;
+}
+
+.button{
+    width: 60px;
+    border: none;
+    background-color: rgb(255, 94, 0);
+}
+
+.trash-btn{
+    padding: 50px;
+}
+
+h5{
+    word-spacing: 5px;
+}
